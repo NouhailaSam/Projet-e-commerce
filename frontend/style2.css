@@ -1,0 +1,848 @@
+.desktop {
+ background-color: #ffffff;
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ width: 100%;
+}
+.desktop .div {
+ background-color: #ffffff;
+ overflow: hidden;
+ width: 1500px;
+ height: 3230px;
+ position: relative;
+}
+.desktop .overlap {
+ position: absolute;
+ width: 370px;
+ height: 538px;
+ top: 2157px;
+ left: 1072px;
+ background-color: #ebb34280;
+ border-radius: 43px;
+}
+.desktop .shopping-cart {
+ top: 476px;
+ left: 297px;
+ position: absolute;
+ width: 58px;
+ height: 58px;
+ object-fit: cover;
+}
+.desktop .img {
+ position: absolute;
+ width: 370px;
+ height: 346px;
+ top: 0;
+ left: 0;
+ object-fit: cover;
+}
+.desktop .text-wrapper {
+ top: 357px;
+ left: 26px;
+ text-align: center;
+ position: absolute;
+ font-family: "Kantumruy Pro-Medium", Helvetica;
+ font-weight: 500;
+ color: #501414;
+ font-size: 45px;
+ letter-spacing: 0;
+ line-height: normal;
+	white-space: nowrap;}
+.desktop .element-DH-kg {
+ position: absolute;
+ top: 422px;
+ left: 51px;
+ font-family: "Kantumruy Pro-Regular", Helvetica;
+ font-weight: 400;
+ color: transparent;
+ font-size: 45px;
+ text-align: center;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.desktop .span {
+ color: #000000;
+}
+.desktop .text-wrapper-2 {
+ color: #043e0e;
+}
+.desktop .overlap-group {
+ position: absolute;
+ width: 370px;
+ height: 538px;
+ top: 2157px;
+ left: 565px;
+ background-color: #ebb34280;
+ border-radius: 43px;
+}
+.desktop .shopping-cart-2 {
+ top: 476px;
+ left: 299px;
+ position: absolute;
+ width: 58px;
+ height: 58px;
+ object-fit: cover;
+}
+.desktop .text-wrapper-3 {
+ top: 355px;
+ left: 70px;
+ text-align: center;
+ position: absolute;
+ font-family: "Kantumruy Pro-Medium", Helvetica;
+ font-weight: 500;
+ color: #501414;
+ font-size: 45px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.desktop .p {
+ position: absolute;
+ top: 418px;
+ left: 57px;
+ font-family: "Kantumruy Pro-Regular", Helvetica;
+ font-weight: 400;
+ color: transparent;
+ font-size: 45px;
+ text-align: center;
+ letter-spacing: 0;
+ line-height: normal;
+	white-space: nowrap;}
+.desktop .overlap-2 {
+ position: absolute;
+ width: 370px;
+ height: 538px;
+ top: 2157px;
+ left: 58px;
+ background-color: #ebb34280;
+ border-radius: 43px;
+}
+.desktop .shopping-cart-3 {
+ top: 480px;
+ left: 295px;
+ position: absolute;
+ width: 58px;
+ height: 58px;
+ object-fit: cover;
+}
+.desktop .text-wrapper-4 {
+ top: 353px;
+ left: 66px;
+ text-align: center;
+ position: absolute;
+ font-family: "Kantumruy Pro-Medium", Helvetica;
+ font-weight: 500;
+ color: #501414;
+ font-size: 45px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.desktop .element-DH-kg-2 {
+ position: absolute;
+ top: 422px;
+ left: 21px;
+ font-family: "Kantumruy Pro-Regular", Helvetica;
+ font-weight: 400;
+ color: transparent;
+ font-size: 45px;
+ text-align: center;
+ letter-spacing: 0;
+ line-height: normal;
+	white-space: nowrap;}
+.desktop .overlap-3 {
+ position: absolute;
+ width: 370px;
+ height: 538px;
+ top: 1581px;
+ left: 58px;
+ background-color: #ebb34280;
+ border-radius: 43px;
+}
+.desktop .text-wrapper-5 {
+ top: 351px;
+ left: 33px;
+ position: absolute;
+ font-family: "Kantumruy Pro-Medium", Helvetica;
+ font-weight: 500;
+ color: #501414;
+ font-size: 45px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.desktop .element-DH-kg-3 {
+ position: absolute;
+ top: 418px;
+ left: 65px;
+ font-family: "Kantumruy Pro-Regular", Helvetica;
+ font-weight: 400;
+ color: transparent;
+ font-size: 45px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.desktop .overlap-4 {
+ position: absolute;
+ width: 370px;
+ height: 538px;
+ top: 1581px;
+ left: 565px;
+ background-color: #ebb34280;
+	border-radius: 43px;}
+.desktop .shopping-cart-4 {
+ top: 472px;
+ left: 291px;
+ position: absolute;
+ width: 58px;
+ height: 58px;
+ object-fit: cover;
+}
+.desktop .text-wrapper-6 {
+ top: 351px;
+ left: 60px;
+ position: absolute;
+ font-family: "Kantumruy Pro-Medium", Helvetica;
+ font-weight: 500;
+ color: #501414;
+ font-size: 45px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.desktop .element-DH-kg-4 {
+ position: absolute;
+ top: 414px;
+ left: 71px;
+ font-family: "Kantumruy Pro-Regular", Helvetica;
+ font-weight: 400;
+ color: transparent;
+ font-size: 45px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.desktop .overlap-group-2 {
+ position: absolute;
+ width: 370px;
+ height: 538px;
+ top: 1581px;
+ left: 1072px;
+ background-color: #ebb34280;
+ border-radius: 43px;
+}
+.desktop .shopping-cart-5 {
+ top: 472px;
+ left: 299px;
+ position: absolute;
+ width: 58px;
+ height: 58px;
+ object-fit: cover;
+}
+.desktop .text-wrapper-7 {
+ top: 351px;
+ left: 61px;
+ position: absolute;
+ font-family: "Kantumruy Pro-Medium", Helvetica;
+ font-weight: 500;
+ color: #501414;
+ font-size: 45px;
+ letter-spacing: 0;
+ line-height: normal;
+	white-space: nowrap;}
+.desktop .element-DH-kg-5 {
+ position: absolute;
+ top: 419px;
+ left: 46px;
+ font-family: "Kantumruy Pro-Regular", Helvetica;
+ font-weight: 400;
+ color: transparent;
+ font-size: 45px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.desktop .overlap-5 {
+ position: absolute;
+ width: 370px;
+ height: 538px;
+ top: 957px;
+ left: 58px;
+ background-color: #ebb34280;
+ border-radius: 43px;
+}
+.desktop .shopping-cart-6 {
+ top: 477px;
+ left: 292px;
+ position: absolute;
+ width: 58px;
+ height: 58px;
+ object-fit: cover;
+}
+.desktop .text-wrapper-8 {
+ top: 357px;
+ left: 65px;
+ position: absolute;
+ font-family: "Kantumruy Pro-Medium", Helvetica;
+ font-weight: 500;
+ color: #501414;
+ font-size: 45px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.desktop .element-DH-kg-6 {
+ position: absolute;
+ top: 421px;
+ left: 56px;
+ font-family: "Kantumruy Pro-Regular", Helvetica;
+ font-weight: 400;
+ color: transparent;
+ font-size: 45px;
+ letter-spacing: 0;
+ line-height: normal;
+	white-space: nowrap;}
+.desktop .overlap-6 {
+ position: absolute;
+ width: 370px;
+ height: 538px;
+ top: 957px;
+ left: 565px;
+ background-color: #ebb34280;
+ border-radius: 43px;
+}
+.desktop .shopping-cart-7 {
+ position: absolute;
+ width: 58px;
+ height: 58px;
+ top: 477px;
+ left: 295px;
+ object-fit: cover;
+}
+.desktop .text-wrapper-9 {
+ position: absolute;
+ top: 357px;
+ left: 59px;
+ font-family: "Kantumruy Pro-Medium", Helvetica;
+ font-weight: 500;
+ color: #501414;
+ font-size: 45px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.desktop .element-DH-kg-7 {
+ position: absolute;
+ top: 423px;
+ left: 60px;
+ font-family: "Kantumruy Pro-Regular", Helvetica;
+ font-weight: 400;
+ color: transparent;
+ font-size: 45px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.desktop .overlap-7 {
+ position: absolute;
+ width: 370px;
+ height: 538px;
+ top: 957px;
+ left: 1072px;
+ background-color: #ebb34280;
+	border-radius: 43px;}
+.desktop .element-DH-kg-8 {
+ position: absolute;
+ top: 419px;
+ left: 64px;
+ font-family: "Kantumruy Pro-Regular", Helvetica;
+ font-weight: 400;
+ color: transparent;
+ font-size: 45px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.desktop .overlap-8 {
+ position: absolute;
+ width: 370px;
+ height: 538px;
+ top: 323px;
+ left: 1071px;
+ background-color: #ebb34280;
+ border-radius: 43px;
+}
+.desktop .shopping-cart-8 {
+ top: 476px;
+ left: 292px;
+ position: absolute;
+ width: 58px;
+ height: 58px;
+ object-fit: cover;
+}
+.desktop .text-wrapper-10 {
+ top: 355px;
+ left: 70px;
+ position: absolute;
+ font-family: "Kantumruy Pro-Medium", Helvetica;
+ font-weight: 500;
+ color: #501414;
+ font-size: 45px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.desktop .element-DH-kg-9 {
+ top: 415px;
+ left: 25px;
+ position: absolute;
+ font-family: "Kantumruy Pro-Regular", Helvetica;
+ font-weight: 400;
+ color: transparent;
+ font-size: 45px;
+ letter-spacing: 0;
+ line-height: normal;
+	white-space: nowrap;}
+.desktop .overlap-9 {
+ position: absolute;
+ width: 393px;
+ height: 538px;
+ top: 323px;
+ left: 564px;
+ background-color: #ebb34280;
+ border-radius: 43px;
+}
+.desktop .shopping-cart-9 {
+ top: 476px;
+ left: 312px;
+ position: absolute;
+ width: 58px;
+ height: 58px;
+ object-fit: cover;
+}
+.desktop .element {
+ position: absolute;
+ width: 393px;
+ height: 346px;
+ top: 0;
+ left: 0;
+ object-fit: cover;
+}
+.desktop .text-wrapper-11 {
+ position: absolute;
+ top: 356px;
+ left: 4px;
+ font-family: "Kantumruy Pro-Medium", Helvetica;
+ font-weight: 500;
+ color: #501414;
+ font-size: 45px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.desktop .element-DH-kg-10 {
+ position: absolute;
+ top: 416px;
+ left: 19px;
+ font-family: "Kantumruy Pro-Regular", Helvetica;
+ font-weight: 400;
+ color: transparent;
+ font-size: 45px;
+ letter-spacing: 0;
+ line-height: normal;
+	white-space: nowrap;}
+.desktop .overlap-10 {
+ position: absolute;
+ width: 1715px;
+ height: 473px;
+ top: -185px;
+ left: -216px;
+}
+.desktop .overlap-11 {
+ position: absolute;
+ width: 1715px;
+ height: 473px;
+ top: 0;
+ left: 0;
+}
+.desktop .rectangle {
+ position: absolute;
+ width: 1499px;
+ height: 46px;
+ top: 189px;
+ left: 216px;
+ background-color: #ebb34266;
+}
+.desktop .rectangle-2 {
+ position: absolute;
+ width: 1499px;
+ height: 60px;
+ top: 378px;
+ left: 215px;
+ background-color: #ebb34266;
+}
+.desktop .rectangle-3 {
+ position: absolute;
+ width: 335px;
+ height: 457px;
+ top: 8px;
+ left: 105px;
+ background-color: #501414;
+ border-radius: 45px;
+ transform: rotate(69.71deg);
+}
+.desktop .worldwide {
+ position: absolute;
+ width: 40px;
+ height: 40px;
+ top: 192px;
+ left: 1612px;
+ object-fit: cover;
+}
+.desktop .shopping-cart-10 {
+ position: absolute;
+ width: 47px;
+ height: 47px;
+ top: 189px;
+ left: 1459px;
+ object-fit: cover;
+}
+.desktop .user {
+ position: absolute;
+ width: 40px;
+ height: 40px;
+ top: 192px;
+ left: 1535px;
+	object-fit: cover;}
+.desktop .rectangle-4 {
+ position: absolute;
+ width: 231px;
+ height: 80px;
+ top: 0;
+ left: 635px;
+ background-color: #ebb34280;
+ border-radius: 145px;
+}
+.desktop .text-wrapper-12 {
+ position: absolute;
+ width: 448px;
+top: 274px;
+left: 800px;
+ font-family: "Kaisei Tokumin-Medium", Helvetica;
+ font-weight: 500;
+ color: #501414;
+ font-size: 44px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.desktop .text-wrapper-13 {
+ position: absolute;
+top: 274px;
+left: 1240px;
+ font-family: "Kaisei Tokumin-Medium", Helvetica;
+ font-weight: 500;
+ color: #501414;
+ font-size: 44px;
+ letter-spacing: 0;
+ line-height: normal;
+}
+.desktop .text-wrapper-14 {
+ width: 272px;
+position: absolute;
+ top: 274px;
+ left:600px;
+ font-family: "Kaisei Tokumin-Medium", Helvetica;
+ font-weight: 500;
+ color: #501414;
+ font-size: 44px;
+ letter-spacing: 0;
+ line-height: normal;
+}
+.desktop .text-wrapper-15 {
+ position: absolute;
+ top: 274px;
+ left: 1472px;
+ font-family: "Kaisei Tokumin-Medium", Helvetica;
+ font-weight: 500;
+ color: #501414;
+ font-size: 44px;
+ letter-spacing: 0;
+ line-height: normal;
+}
+.desktop .overlap-13 {
+ position: absolute;
+ width: 1500px;
+ height: 364px;
+ top: 2907px;
+ left: 1px;
+	border-radius: 46px;}
+.desktop .rectangle-5 {
+ position: absolute;
+ width: 1500px;
+ height: 364px;
+ top: 0;
+ left: 0;
+ background-color: #501414;
+ border-radius: 46px;
+ opacity: 0.93;
+}
+.desktop .frame {
+ position: absolute;
+ width: 86px;
+ height: 86px;
+ top: 97px;
+ left: 90px;
+ background-image: url(./img/facebook.png);
+ background-size: 100% 100%;
+}
+.desktop .group {
+ position: absolute;
+ width: 26px;
+ height: 48px;
+ top: 19px;
+ left: 30px;
+}
+.desktop .text-wrapper-16 {
+ position: absolute;
+ top: 13px;
+ left: 488px;
+ font-family: "Kantumruy Pro-Medium", Helvetica;
+ font-weight: 500;
+ color: #ebb342;
+ font-size: 64px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.desktop .contact {
+ position: absolute;
+ width: 84px;
+ height: 84px;
+ top: 9px;
+ left: 386px;
+ object-fit: cover;
+}
+.desktop .group-wrapper {
+ top: 212px;
+ left: 87px;
+ background-image: url(./img/instagramme-01.png);
+ background-size: 100% 100%;
+ position: absolute;
+ width: 86px;
+ height: 86px;
+}
+.desktop .group-2 {
+ width: 43px;
+ height: 43px;
+ top: 22px;
+ left: 22px;
+ position: relative;
+	background-size: 100% 100%;}
+.desktop .frame-2 {
+ top: 211px;
+ left: 909px;
+ position: absolute;
+ width: 86px;
+ height: 86px;
+}
+.desktop .w {
+ top:70px;
+ left: 904px;
+ position: absolute;
+ width: 108px;
+ height: 108px;
+}
+.desktop .text-wrapper-17 {
+ position: absolute;
+ top: 116px;
+ left: 205px;
+ font-family: "Kantumruy Pro-Medium", Helvetica;
+ font-weight: 500;
+ color: #ebb342;
+ font-size: 40px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.desktop .text-wrapper-18 {
+ position: absolute;
+ top: 228px;
+ left: 192px;
+ font-family: "Kantumruy Pro-Medium", Helvetica;
+ font-weight: 500;
+ color: #ebb342;
+ font-size: 40px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.desktop .text-wrapper-19 {
+ position: absolute;
+ top: 102px;
+ left: 1039px;
+ font-family: "Kantumruy Pro-Medium", Helvetica;
+ font-weight: 500;
+ color: #ebb342;
+ font-size: 40px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.desktop .text-wrapper-20 {
+ position: absolute;
+ width: 444px;
+ top: 233px;
+ left: 1039px;
+ font-family: "Kantumruy Pro-Medium", Helvetica;
+ font-weight: 500;
+ color: #ebb342;
+ font-size: 40px;
+ letter-spacing: 0;
+ line-height: normal;
+}
+.desktop .overlap-14 {
+ position: absolute;
+ width: 370px;
+ height: 538px;
+ top: 323px;
+ left: 57px;
+ background-color: #ebb34280;
+ border-radius: 43px;
+}
+.desktop .shopping-cart-11 {
+ top: 476px;
+ left: 289px;
+ position: absolute;
+ width: 58px;
+ height: 58px;
+ object-fit: cover;
+}
+.desktop .text-wrapper-21 {
+ top: 354px;
+ left: 39px;
+ position: absolute;
+ font-family: "Kantumruy Pro-Medium", Helvetica;
+ font-weight: 500;
+ color: #501414;
+ font-size: 45px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.desktop .element-DH-kg-11 {
+ top: 422px;
+ left: 23px;
+ position: absolute;
+ font-family: "Kantumruy Pro-Regular", Helvetica;
+ font-weight: 400;
+ color: transparent;
+ font-size: 45px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.desktop .overlap-15 {
+ position: absolute;
+ width: 50px;
+ height: 54px;
+ top: 2794px;
+	left: 652px;}
+.desktop .text-wrapper-22 {
+ position: absolute;
+ top: 0;
+ left: 15px;
+ font-family: "Kantumruy Pro-Medium", Helvetica;
+ font-weight: 500;
+ color: #000000;
+ font-size: 45px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.desktop .rectangle-6 {
+ position: absolute;
+ width: 50px;
+ height: 50px;
+ top: 4px;
+ left: 0;
+ background-color: #ebb34280;
+ border-radius: 18px;
+}
+.desktop .text-wrapper-23 {
+ position: absolute;
+ top: 2794px;
+ left: 744px;
+ font-family: "Kantumruy Pro-Medium", Helvetica;
+ font-weight: 500;
+ color: #000000;
+ font-size: 45px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.desktop .next {
+ top: 2786px;
+ left: 777px;
+ position: absolute;
+ width: 75px;
+ height: 75px;
+ object-fit: cover;
+}
+.desktop .next-2 {
+ top: 2787px;
+ left: 570px;
+ position: absolute;
+ width: 75px;
+ height: 75px;
+	object-fit: cover;
+	transform: rotate(180deg); 
+}
+ img.logof{
+	 position: absolute;
+	left: 220px;
+	width:250px;
+	height:250px;
+	 top: 140px;
+	
+}
+a{
+	color: #501414;
+	font-size: 50px;
+  font-family: "Kaisei Tokumin-ExtraBold", Helvetica;
+	font-weight: 520;
+	left: 5px;
+	
+	
+	
+
+}
+a:active{
+  display: inline-block;
+  padding: 5px 10px;
+  border: 2px solid #ebb34266;
+  border-radius: 32px;        
+  background-color:#ebb34266;  
+  color: #ebb34266;
+  text-decoration: none;
+	
+}
+img.img{
+	border-radius: 32px;
+}
+img.img:hover{
+	transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;
+}
+img.element{
+	border-radius: 32px;
+}
+img.element:hover{
+	transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;
+}
