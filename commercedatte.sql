@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : 127.0.0.1
--- Généré le : lun. 16 juin 2025 à 22:36
+-- Généré le : mar. 10 juin 2025 à 22:59
 -- Version du serveur : 10.4.32-MariaDB
 -- Version de PHP : 8.2.12
 
@@ -111,30 +111,6 @@ CREATE TABLE `langue` (
   `langueId` int(11) NOT NULL,
   `nom_langue` varchar(50) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-
--- --------------------------------------------------------
-
---
--- Structure de la table `message`
---
-
-CREATE TABLE `message` (
-  `messageid` int(11) NOT NULL,
-  `nomclient` varchar(60) NOT NULL,
-  `message` text NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-
---
--- Déchargement des données de la table `message`
---
-
-INSERT INTO `message` (`messageid`, `nomclient`, `message`) VALUES
-(0, 'imane bakadir', 'mrrci'),
-(0, 'imane bakadir', 'mrrci'),
-(0, 'imane bakadir', 'mrrci'),
-(0, 'imane bakadir', 'mrrci'),
-(0, 'imane bakadir', 'mrrci'),
-(0, 'asma', 'bien');
 
 -- --------------------------------------------------------
 
